@@ -35,12 +35,14 @@ DAX (Data Analysis Expressions)
 Power Query (for transformations)
 Retail Superstore CSV Dataset
 🖼️ Dashboard Screenshot
+<img width="1322" height="744" alt="Screenshot 2025-07-27 132904" src="https://github.com/user-attachments/assets/96e9425c-5607-4f40-952b-37c574469327" />
+
 <img width="1310" height="737" alt="Screenshot 2025-07-27 132919" src="https://github.com/user-attachments/assets/8bd34d9e-1e6d-40a3-8f07-d75bf0ad8242" />
+
 
 
 📁 Files Included
 Retail_Superstore_Data.pbix → The full Power BI dashboard file
-<img width="1310" height="737" alt="Screenshot 2025-07-27 132919" src="https://github.com/user-attachments/assets/bcdad8e8-d83e-4d95-a5df-43ad795fb921" />
 
 🧠 What I Learned
 Writing DAX for dynamic KPIs
