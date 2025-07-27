@@ -1,4 +1,4 @@
-# -📊Retail-Superstore-Dashboard-Power-BI-Project
+# 📊Retail-Superstore-Dashboard-Power-BI-Project
 Hey there! I’m Shubham, and this is one of my data analytics projects built using Power BI — a dynamic, interactive dashboard created from a retail superstore dataset.
 
 🔍 Overview
